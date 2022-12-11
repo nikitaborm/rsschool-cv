@@ -1,6 +1,6 @@
 # Nikita Bormotov
 
-
+![my avatar](images/avatar.jpg)
 
 ## Contacts
 
