@@ -46,3 +46,11 @@ function main() {
   * [CS50 Lectures](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
   * [Sololearn](https://www.sololearn.com/)
   * Youtube, FreeCodeCamp, Codecademy
+
+## Languages
+
+* **English** - Pre-Intermediate/Intermediate (the online test at www.efset.org)
+![English Level](/images/EnglishLevel.jpg "the online test at www.efset.org")
+* **Russian** - Native
+* **Italian** - Beginner
+* **Arabic** - Beginner
