@@ -36,3 +36,13 @@ function main() {
     console.log(breakfasts); 
 }
 ```
+
+## Education
+
+* **A.S. Griboedov Institute of International Law and Economics**
+  * Faculty of Law
+* **Courses**
+  * [The Rolling Scopes School](https://rs.school/) (in progress...)
+  * [CS50 Lectures](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
+  * [Sololearn](https://www.sololearn.com/)
+  * Youtube, FreeCodeCamp, Codecademy
